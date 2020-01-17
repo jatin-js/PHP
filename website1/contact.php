@@ -1,4 +1,4 @@
-<?php include 'inc/header.php';?>
+<?php include 'inc/header.php';?>  <!-- Continue even if file not found -->
     <h1>Contact</h1>
 <?php include 'inc/footer.php';?>
 
